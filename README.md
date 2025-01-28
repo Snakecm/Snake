@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/images/logo.svg" alt="Snake Game Library Logo" width="200" height="200">
+</div>
+
 # Snake Game Library
 
 A flexible and extensible snake game library that can be easily integrated into various Python projects.
